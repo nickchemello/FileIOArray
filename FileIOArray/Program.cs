@@ -35,7 +35,7 @@ namespace FileIOArray
 
             //
             //dispaly header
-            //
+            // 
             Console.WriteLine(
                 "First Name".PadRight(15) +
                 "Last Name".PadRight(15) +
